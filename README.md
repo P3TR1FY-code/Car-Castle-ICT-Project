@@ -1,6 +1,6 @@
 #  Car Castle – Car Showroom Website
 
-## 📌 Project Description
+##  Project Description
 Car Castle is a frontend-based car showroom website developed as a semester project for  
 **Applications of ICT Lab (CS181L)** at **Air University Islamabad**.
 
@@ -9,14 +9,14 @@ CMS, or paid libraries, strictly following the course guidelines.
 
 ---
 
-## 🧑‍🤝‍🧑 Group Members
+##  Group Members
 - Haider Shahid – (2501384)
 - Ayesha Tariq – (2501264)
 - Muddasir Rafique – (2501339)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 CarCastle/
 │
 ├── index.html (Login / Signup Page)
@@ -37,7 +37,7 @@ CarCastle/
 └── logo.png
 ---
 
-## ▶ How to Run the Project
+##  How to Run the Project
 1. Download or clone the repository.
 2. Extract the folder (if zipped).
 3. Open the project folder.
@@ -46,7 +46,7 @@ CarCastle/
 
 ---
 
-## 🔄 Website Flow
+##  Website Flow
 - Login / Signup Page
 - Home Page
 - Categories Page
@@ -55,7 +55,7 @@ CarCastle/
 
 ---
 
-## 📌 Features
+##  Features
 - User Login & Signup Interface
 - Car Categories with Images
 - Separate Detail Pages for Each Category
@@ -64,7 +64,7 @@ CarCastle/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add backend authentication
 - Database integration
 - Online car booking system
@@ -72,7 +72,7 @@ CarCastle/
 
 ---
 
-## 📜 Note
+##  Note
 This project is created for educational purposes only.
 
 ---
